@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Gamer/CLionProjects/stegano2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Gamer/CLionProjects/stegano2/cmake-build-debug/CMakeFiles/stegano2.dir
+/cygdrive/c/Users/Gamer/CLionProjects/stegano2/cmake-build-debug/CMakeFiles/edit_cache.dir

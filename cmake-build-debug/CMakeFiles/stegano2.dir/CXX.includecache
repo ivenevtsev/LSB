@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Gamer/CLionProjects/stegano2/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+cmath
+-
+bitset
+-
+
